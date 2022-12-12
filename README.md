@@ -50,3 +50,11 @@ melhoria 1, melhoria 2
 Contribuidor principal: https://github.com/TiaguinhoCode 
 
 [![Logo do PHP](https://w7.pngwing.com/pngs/866/528/png-transparent-php-web-development-perl-logo-php-logo-cdr-text-trademark-thumbnail.png)](https://github.com/TiaguinhoCode)
+
+## Código da função soma 
+
+``` JavaScript 
+function soma(a, b) {
+    return a + b; 
+}
+```
