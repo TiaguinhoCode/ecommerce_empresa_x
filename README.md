@@ -34,3 +34,8 @@ melhoria 1, melhoria 2
 #### Imagem Local
 
 ![Logo do Python](img/python.jpg)
+
+
+#### Imagem externa 
+
+![Logo do PHP](https://w7.pngwing.com/pngs/866/528/png-transparent-php-web-development-perl-logo-php-logo-cdr-text-trademark-thumbnail.png)
